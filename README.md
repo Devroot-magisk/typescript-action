@@ -4,6 +4,7 @@
 [![Check dist/](https://github.com/actions/typescript-action/actions/workflows/check-dist.yml/badge.svg)](https://github.com/actions/typescript-action/actions/workflows/check-dist.yml)
 [![CodeQL](https://github.com/actions/typescript-action/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/actions/typescript-action/actions/workflows/codeql-analysis.yml)
 [![Coverage](./badges/coverage.svg)](./badges/coverage.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDevroot-magisk%2Ftypescript-action.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FDevroot-magisk%2Ftypescript-action?ref=badge_shield)
 
 Use this template to bootstrap the creation of a TypeScript action. :rocket:
 
@@ -151,6 +152,9 @@ Your action is now published! :rocket:
 For information about versioning your action, see
 [Versioning](https://github.com/actions/toolkit/blob/master/docs/action-versioning.md)
 in the GitHub Actions toolkit.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDevroot-magisk%2Ftypescript-action.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FDevroot-magisk%2Ftypescript-action?ref=badge_large)
 
 ## Validate the Action
 
